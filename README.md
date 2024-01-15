@@ -63,5 +63,6 @@ challenge-tinnova/
 
 ![Resultado do teste](/assets/details-test-img.png)
 
-![Execução do teste](https://github.com/DiegoJOFernandes/challenge-tinnova/assets/execute-test.mp4)
-![Detalhes do teste](https://github.com/DiegoJOFernandes/challenge-tinnova/assets/details-test.mp4)
+[Execução do teste](https://github.com/DiegoJOFernandes/challenge-tinnova/assets/execute-test.mp4)
+
+[Detalhes do teste](https://github.com/DiegoJOFernandes/challenge-tinnova/assets/details-test.mp4)
