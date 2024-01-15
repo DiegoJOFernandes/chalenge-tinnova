@@ -1,0 +1,24 @@
+{
+  "name": "challenge-tinnova",
+  "version": "1.0.0",
+  "description": "Desafio de automação de API",
+  "main": "index.js",
+  "scripts": {
+    "test:api": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoJOFernandes/challenge-tinnova.git"
+  },
+  "author": "DiegoJOFernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoJOFernandes/challenge-tinnova/issues"
+  },
+  "homepage": "https://github.com/DiegoJOFernandes/challenge-tinnova#readme",
+  "dependencies": {
+    "cypress": "^13.6.2",
+    "cypress-plugin-api": "^2.11.1",
+    "dotenv": "^16.3.1"
+  }
+}
